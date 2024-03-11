@@ -1,10 +1,13 @@
-# API de Usuarios con Flask y MongoDB
+![Portada](/src/Portadas_Proyectos_GitHub.png)
 
-Esta API de usuarios permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre usuarios en una base de datos MongoDB. Utiliza Flask para el desarrollo del servidor web y Flask-PyMongo para la interacción con MongoDB.
+
+# 🔷 API de Usuarios con Flask y MongoDB 🔷
+
+### 🚀 Esta API de usuarios permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre usuarios en una base de datos MongoDB. Utiliza Flask para el desarrollo del servidor web y Flask-PyMongo para la interacción con MongoDB. 🚀
 
 ## Endpoints
 
-### 1. Crear Usuario
+### 1. 🏊‍♀️ Crear Usuario 🏊‍♀️
 
 **URL:** `/users`  
 **Método:** `POST`  
@@ -18,18 +21,18 @@ Esta API de usuarios permite realizar operaciones CRUD (Crear, Leer, Actualizar,
     "password": "contrasena_segura"
 }
 ```
-### 2. Obtener usuarios
+### 2. 🤿🤿🤿 Obtener usuarios 🤿🤿🤿
 **URL:** `/users`  
 **Método:** `GET`  
 **Descripción:** Obten la lista de usuarios registrados
 
-### 3. Obtener un solo usuario
+### 3. 🤿 Obtener un solo usuario 🤿
 
 **URL:** `/users/<user_id>`  
 **Método:** `GET`  
 **Descripción:** Obten los datos de un solo usuario.
 
-### 4. Editar un usuario registrado
+### 4. 🖍️ Editar un usuario registrado 🖍️
 
 **URL:** `/users/<user_id>`  
 **Método:** `PUT`  
@@ -43,7 +46,7 @@ Esta API de usuarios permite realizar operaciones CRUD (Crear, Leer, Actualizar,
 }
 ```
 
-### 5. Eliminar un usuario registrado
+### 5. 🗑️ Eliminar un usuario registrado 🗑️
 
 **URL:** `/users/<user_id>`  
 **Método:** `DELETE`  
