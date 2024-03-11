@@ -1,4 +1,4 @@
-![Portada](/src/Portadas_Proyectos_GitHub.png)
+![Portada](https://github.com/Nico9934/userApi_flask/blob/master/src/Portadas%20Proyectos%20GitHub.png)
 
 
 # 🔷 API de Usuarios con Flask y MongoDB 🔷
